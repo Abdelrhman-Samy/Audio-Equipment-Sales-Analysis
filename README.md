@@ -80,6 +80,8 @@ A new column was created to include the discount and the month, in order to avoi
 
 <img width="1310" height="747" alt="Dashbord1" src="https://github.com/user-attachments/assets/58a234c8-5d9e-47c8-affc-1856f978261b" />
 
+
+
 <img width="1315" height="705" alt="Dashbord2" src="https://github.com/user-attachments/assets/92a09cbe-6eb5-4b51-a9b5-a5315d7f604a" />
 
 
