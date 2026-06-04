@@ -77,12 +77,15 @@ A new column was created to include the discount and the month, in order to avoi
 <img width="1160" height="688" alt="Modeling" src="https://github.com/user-attachments/assets/e80a3034-5d4c-4fb2-bea4-ffd2c343047b" />
 
 # Dashbords 
+page 1
 
 <img width="1310" height="747" alt="Dashbord1" src="https://github.com/user-attachments/assets/58a234c8-5d9e-47c8-affc-1856f978261b" />
 
 
+page 2 
 
-<img width="1315" height="705" alt="Dashbord2" src="https://github.com/user-attachments/assets/92a09cbe-6eb5-4b51-a9b5-a5315d7f604a" />
+
+<img width="1319" height="738" alt="Dashbord2" src="https://github.com/user-attachments/assets/d0ace9ba-cc53-4266-bbb0-0828fa07c29b" />
 
 
 Dashboard features include:
